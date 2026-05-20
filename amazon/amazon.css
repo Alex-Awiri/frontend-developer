@@ -1,0 +1,54 @@
+/* link-color -- #007185
+/* breadcrumb-color --- #565959 */
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.second-header{
+    font-size: 15px;
+    font-family: sans-serif;
+    color: grey;
+    background-color: beige;
+    text-align: center;
+    border-radius: 3px;
+    box-shadow: 0 0 5px black;
+    border: none;
+    padding: 2px;
+    height: 670px;
+}
+.main-heading{
+    display: flex;
+}
+.seige{
+    font-weight: bolder;
+}
+.article-section{
+    margin-left: 30px;
+}
+.cat-safety{
+    font-size: 50px;
+    color: darkblue;
+    font-weight: bold;
+    position: relative;
+    bottom: 30px;
+}
+.gun-safety{
+    font-size: 75px;
+    color: red;
+    font-weight: bold;
+    position: relative;
+    bottom: 100px;
+    
+}
+.third-header{
+    background: black;
+    padding: 5px;
+    color: white;
+}
+.fourth-header{
+    position: relative;
+    bottom: 160px;
+}
+.heading{
+    font-size: 20px;
+}
